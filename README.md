@@ -5,6 +5,7 @@ Aimed to help to solve Global warming problem.
 # What includes Xakatonbot?
 
 Xakatonbot will have 10 commands:
+
 *Sugests
 
 *Donation
