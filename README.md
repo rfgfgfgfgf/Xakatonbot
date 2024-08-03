@@ -40,9 +40,7 @@ pip install -r requirements.txt
 
 bot.run("токен вашего бота") 
 
-Запустите бота:
-
-python bot.py
+Запустите бота
 
 # Использование
 
